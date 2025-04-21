@@ -1,9 +1,5 @@
 # DirDock
 
-![GitHub license](https://img.shields.io/github/license/Abalone27/dirdock)
-![GitHub last commit](https://img.shields.io/github/last-commit/Abalone27/dirdock)
-![GitHub issues](https://img.shields.io/github/issues/Abalone27/dirdock)
-
 ![DirDock Logo](assets/extension-icon.png)
 
 DirDock是我为MacOS的*raycast*插件开发的目录管理插件，可以很方便的定位自己的常用目录，类似于*VsCode*中的*Project Management*插件，但DirDock还新增了按照Tag分类等功能。
